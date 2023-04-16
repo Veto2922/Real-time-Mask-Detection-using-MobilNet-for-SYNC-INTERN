@@ -1,0 +1,1 @@
+# Real-time-Mask-Detection-using-MobilNet-for-SYNC-INTERN
