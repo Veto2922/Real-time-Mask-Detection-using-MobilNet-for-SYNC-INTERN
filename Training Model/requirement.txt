@@ -1,0 +1,9 @@
+numpy
+tensorflow
+scikit-learn
+more-itertools
+os
+shutil
+random
+matplotlib
+IPython
